@@ -1,3 +1,4 @@
 *.userprefs
 FsMvc4MonoSample/bin
 FsMvc4MonoSample.Tests/bin
+.DS_Store
